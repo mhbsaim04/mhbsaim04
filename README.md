@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there! 👋, I'm <Mazharul Hoq Bhuiyan Saim>  
+### 🔭 I build things with JavaScript, React, Next.js, and Node.js
 
-<!--
-**mhbsaim04/mhbsaim04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+Currently, I'm focused on finishing my full-stack web engineering learnig and expanding my knowledge in building full-stack real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![ES6]
+![TypeScript]
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js]
+
+
+### **Backend**
+
+![BetterAuth]
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![CRUD]
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![JWT]
+
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![NoSQL Booster for MongoDB]
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mazharul-hoq-bhuiyan-saim-32b420355/))
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/mh_Saim27))
+[![Portfolio]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mhbsaim27@gmail.com)
+
+---
+
+## 📊 GitHub Stats  
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
