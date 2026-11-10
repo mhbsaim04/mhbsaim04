@@ -28,7 +28,7 @@ I'm a **full-stack web developer in training** who builds modern, responsive web
 
 Outside of code, I work as a **part-time Project and Social Media Manager at Halal Shoot**, where I manage projects, run social media for Halal Shoot and its client brands, and handle social media customer support. I'm also pursuing a **Bachelor's degree in Geography and Environment at Pabna University of Science and Technology (PUST)**. I'm passionate about technology, research and problem-solving, and I'm always eager to collaborate on projects where **web tech meets media**.
 
-### ⚡ Recruiter Snapshot
+### ⚡ At a glance
 
 | | |
 |---|---|
@@ -104,8 +104,34 @@ My degree in Geography and Environment gives me a research-driven, data-aware wa
 
 </div>
 
-<!--
-OPTIONAL: contribution snake. Enable after adding the workflow from my message, then delete these comment markers.
+
+<!-- contribution snake. --> 
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <div align="center">
 <picture>
@@ -113,7 +139,7 @@ OPTIONAL: contribution snake. Enable after adding the workflow from my message, 
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mhbsaim04/mhbsaim04/output/github-snake.svg" />
 </picture>
 </div>
--->
+
 
 ---
 
