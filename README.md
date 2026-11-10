@@ -22,22 +22,22 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **full-stack web developer in training** who builds modern, responsive web apps with **Next.js, React, TypeScript, Node.js and MongoDB**. I'm in the final stretch of Programming Hero's **AI-driven full-stack web engineering** program, and I'm now building real-world full-stack projects end to end: UI, auth, database and deployment.
 
 Outside of code, I work as a **part-time Project and Social Media Manager at Halal Shoot**, where I manage projects, run social media for Halal Shoot and its client brands, and handle social media customer support. I'm also pursuing a **Bachelor's degree in Geography and Environment at Pabna University of Science and Technology (PUST)**. I'm passionate about technology, research and problem-solving, and I'm always eager to collaborate on projects where **web tech meets media**.
 
-### ⚡ At a glance
+### The 30-Second Overview
 
 | | |
 |---|---|
-| 🎯 **Target role** | AI-Driven Full-Stack Web Engineer |
-| 🧰 **Core stack** | Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Better Auth · JWT |
-| 💼 **Experience** | Project and Social Media Manager (part-time) at Halal Shoot |
-| 🎓 **Education** | B.Sc., Geography and Environment, Pabna University of Science and Technology |
-| 🌍 **Location** | Bangladesh |
-| 📬 **Reach me** | [mhbsaim27@gmail.com](mailto:mhbsaim27@gmail.com) |
+| **Target role** | AI-Driven Full-Stack Web Engineer |
+| **Core stack** | Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Better Auth · JWT |
+| **Experience** | Project and Social Media Manager (part-time) at Halal Shoot |
+| **Education** | B.Sc., Geography and Environment, Pabna University of Science and Technology |
+| **Location** | Bangladesh |
+| **Reach me** | [mhbsaim27@gmail.com](mailto:mhbsaim27@gmail.com) |
 
 ---
 
@@ -54,7 +54,7 @@ Outside of code, I work as a **part-time Project and Social Media Manager at Hal
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Outside of code, I work as a **part-time Project and Social Media Manager at Hal
 </div>
 
 <details>
-<summary><b>📈 Beyond code: digital strategy and business skills (click to expand)</b></summary>
+<summary><b>Beyond code: digital strategy and business skills (click to expand)</b></summary>
 <br/>
 
 - **Social media management:** content planning and coordination across a company brand and its client brands
@@ -82,16 +82,16 @@ Outside of code, I work as a **part-time Project and Social Media Manager at Hal
 </details>
 
 <details>
-<summary><b>🌍 Geography meets code (click to expand)</b></summary>
+<summary><b>Geography meets code (click to expand)</b></summary>
 <br/>
 
-My degree in Geography and Environment gives me a research-driven, data-aware way of thinking. I work with GIS and remote-sensing tools like **QGIS** and **Google Earth Engine**, and I enjoy bringing spatial and data thinking into web projects.
+My degree in Geography and Environment gives me a research-driven, data-aware way of thinking. I work with GIS and remote-sensing tools like **ArcGIS**, **QGIS** and **Google Earth Engine**. In my remote sensing academic proof-of-concept projects, I use my coding skills in Google Earth Engine. It connects my background in geography with technical scripting for spatial and data thinking.
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!--Profile Summary Cards-->
 <div align="center">
@@ -117,14 +117,14 @@ My degree in Geography and Environment gives me a research-driven, data-aware wa
 
 ---
 
-## 🤝 Let's Work Together
+## Let's Work Together
 
 I'm looking for opportunities to **build, learn and contribute** on real full-stack projects. If you're hiring, collaborating, or just want to talk **web development, open source or tech and media**, I'd love to hear from you.
 
 <div align="center">
 
 <a href="mailto:mhbsaim27@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-mhbsaim27@gmail.com-2DD4BF?style=for-the-badge" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/mazharul-hoq-bhuiyan-saim-32b420355/"><img src="https://img.shields.io/badge/💼%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mazharul-hoq-bhuiyan-saim-32b420355/"><img src="https://img.shields.io/badge/%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer" width="100%" />
 
