@@ -32,7 +32,7 @@ Outside of code, I work as a **part-time Project and Social Media Manager at Hal
 
 | | |
 |---|---|
-| **Target role** | AI-Driven Full-Stack Web Engineer |
+| **Target role** | Full-Stack Web Engineer |
 | **Core stack** | Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Better Auth · JWT |
 | **Experience** | Project and Social Media Manager (part-time) at Halal Shoot |
 | **Education** | B.Sc., Geography and Environment, Pabna University of Science and Technology |
