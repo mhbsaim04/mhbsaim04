@@ -105,9 +105,7 @@ My degree in Geography and Environment gives me a research-driven, data-aware wa
 </div>
 
 
-<!-- contribution snake. 
-
-
+<!-- contribution snake. --> 
 
 <div align="center">
 <picture>
@@ -116,7 +114,7 @@ My degree in Geography and Environment gives me a research-driven, data-aware wa
 </picture>
 </div>
 
---> 
+
 ---
 
 ## 🤝 Let's Work Together
