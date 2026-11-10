@@ -93,10 +93,6 @@ My degree in Geography and Environment gives me a research-driven, data-aware wa
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mhbsaim04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-
 <!--Profile Summary Cards-->
 <div align="center">
 
