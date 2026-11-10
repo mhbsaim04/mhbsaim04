@@ -41,20 +41,21 @@ Outside of code, I work as a **part-time Project and Social Media Manager at Hal
 
 ---
 
-## 🚀 Featured Projects
+## My Featured Projects
 
 | Project | What it does | Stack | Links |
 |:---|:---|:---|:---|
+| **🏝️ Tourism Spots of Feni District** | Static website showcasing tourism spots in Feni, Bangladesh. | HTML · CSS · Tailwind CSS | [🔗 Live](https://tourism-spots-of-feni.vercel.app) · [💻 Code](https://github.com/mhbsaim04/tourism-spots-in-feni) |
+| **✈️ Wanderlast Travel Booking Webapp** | A full-stack website of travel booking platform where travelers can browse selected destinations, search for their next trip, and book travel packages instantly. The project is split into two applications: 1/ Frontend - a Next.js (App Router) website, 2/ Backend - a separate Express.js REST API that owns the MongoDB database and secures every booking and admin operation behind JWT authentication  | Next.js · React + TypeScript · Tailwind CSS v4 · better-auth + jwt plugin · Base UI (shadcn-style primitives) | [🔗 Live](https://wanderlast-travel-booking-webapp.vercel.app) · [💻 Code](https://github.com/mhbsaim04/wanderlast-travel-booking-webapp) |
 | **🛒 Bazar Dor** | Bengali-language market-price dashboard for everyday products in Bangladesh. Shows price movers, category pages with sorting, and protected product pages with min, max, average and market-wise prices. Auth via email/password plus Google and GitHub OAuth. | Next.js App Router · React 19 · TypeScript · Tailwind v4 · Better Auth · MongoDB | [🔗 Live](https://bazar-dor-web-project.vercel.app/) · [💻 Code](https://github.com/mhbsaim04/bazar-dor-web-project) |
 | **🏋️ FitLog** | Workout library and daily training planner. Includes a 12-workout library, a "Today's Plan" capped at five lifts, sorting by duration, calories and rating, and plan persistence across reloads. | Next.js 16 · React 19 · TypeScript · Tailwind v4 · Lucide · React Hot Toast | [🔗 Live](https://body-fit-log-web.vercel.app) · [💻 Code](https://github.com/mhbsaim04/body-fit-log-web) |
-| **🏝️ Tourism Spots of Feni** | Static website showcasing tourism spots in Feni, Bangladesh. | HTML · CSS | [🔗 Live](https://tourism-spots-of-feni.vercel.app) · [💻 Code](https://github.com/mhbsaim04/tourism-spots-in-feni) |
 | **🎤 DevConf 2026 Page** | Programming Hero assignment: conference event page. | HTML · CSS | [💻 Code](https://github.com/mhbsaim04/PH-Assignment-01-DevConf-2026) |
 
-<sub>More: [tour-mama-official](https://github.com/mhbsaim04/tour-mama-official) · [servant-of-Allah-official](https://github.com/mhbsaim04/servant-of-Allah-official) · [all repositories →](https://github.com/mhbsaim04?tab=repositories)</sub>
+<sub>More: [servant-of-Allah-official](https://github.com/mhbsaim04/servant-of-Allah-official) · [tour-mama-official](https://github.com/mhbsaim04/tour-mama-official) · [all repositories →](https://github.com/mhbsaim04?tab=repositories)</sub>
 
 ---
 
-## Tech Stack
+## Technical Stack
 
 <div align="center">
 
