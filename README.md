@@ -99,13 +99,14 @@ My degree in Geography and Environment gives me a research-driven, data-aware wa
 <div align="center">
 
 <img height="180" src="https://raw.githubusercontent.com/mhbsaim04/mhbsaim04/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="180" src="https://raw.githubusercontent.com/mhbsaim04/mhbsaim04/main/profile-summary-card-output/tokyonight/3-repos-per-language.svg" alt="Top languages" />
+<img height="180" src="https://raw.githubusercontent.com/mhbsaim04/mhbsaim04/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
+
+<img height="180" src="https://raw.githubusercontent.com/mhbsaim04/mhbsaim04/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+<img height="180" src="https://raw.githubusercontent.com/mhbsaim04/mhbsaim04/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=mhbsaim04&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
-</div>
-
 
 <!-- contribution snake. --> 
 
